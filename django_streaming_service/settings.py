@@ -40,7 +40,7 @@ MIDDLEWARE = [
     'allauth.account.middleware.AccountMiddleware',
 ]
 
-ROOT_URLCONF = 'streaming_platform.urls'
+ROOT_URLCONF = 'django_streaming_service.urls'
 
 TEMPLATES = [
     {
@@ -58,7 +58,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'streaming_platform.wsgi.application'
+WSGI_APPLICATION = 'django_streaming_service.wsgi.application'
 
 DATABASES = {
     'default': {
