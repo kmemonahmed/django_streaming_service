@@ -10,15 +10,16 @@ click-plugins==1.1.1
 click-repl==0.3.0
 colorama==0.4.6
 Deprecated==1.2.14
+dj-rest-auth==6.0.0
 Django==4.0.1
 django-allauth==0.63.1
 django-cors-headers==3.10.1
-django-rest-auth==0.9.5
 djangorestframework==3.13.1
 djangorestframework-simplejwt==4.8.0
 idna==3.7
 kombu==5.3.7
 packaging==24.0
+pillow==10.3.0
 prompt-toolkit==3.0.43
 PyJWT==2.8.0
 pytz==2024.1
